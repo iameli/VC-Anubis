@@ -1,0 +1,4 @@
+name: VC_Anubis
+main: net.bluecardinal.voxcrafti.anubis.Anubis
+version: 0.1
+depend: [Vox Crafti]
